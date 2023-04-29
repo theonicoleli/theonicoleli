@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Olá, eu sou o Théo Lucas Nicoleli
 
-<!--
-**theonicoleli/theonicoleli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudante de BSI na PUCPR
 
-Here are some ideas to get you started:
+🧑‍ Idade 18 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Interessado pela área de Back-End
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-lucas-nicoleli-194b49204/)
+
+## 🖥️ Tecnologias:
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5"src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css"src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="python"src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+## 📊 Minhas estatísticas do GitHub:
+
+![Théo Nicoleli's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonicoleli&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonicoleli&layout=compact&theme=dark)](https://github.com/theonicoleli/github-readme-stats)
