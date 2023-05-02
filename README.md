@@ -1,9 +1,8 @@
 ### 👋 Olá, eu sou o Théo Lucas Nicoleli
 
-📚 Estudante de BSI na PUCPR
-
-🧑‍ Idade 18 anos
-
+## 👀 Informações:
+📚 Estudante de BSI na PUCPR  
+🧑‍ Idade 18 anos  
 👨‍💻 Interessado pela área de Back-End
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-lucas-nicoleli-194b49204/)
