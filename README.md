@@ -17,4 +17,4 @@
 
 ## 📊 Minhas estatísticas do GitHub:
 
-![Théo Nicoleli's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonicoleli&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonicoleli&layout=compact&theme=dark)](https://github.com/theonicoleli/github-readme-stats)
+![Theo Nicoleli's stats](https://github-readme-stats.vercel.app/api?username=theonicoleli&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonicoleli&exclude_repo=github-readme-stats,theonicoleli.github.io&theme=radical)](https://github.com/theonicoleli/github-readme-stats)
