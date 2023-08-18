@@ -19,4 +19,4 @@ Portfólio: https://theonicoleli.github.io/New-Portfolio/
 
 ## 📊 Minhas estatísticas do GitHub:
 
-![Theo Nicoleli's stats](https://github-readme-stats.vercel.app/api?username=theonicoleli&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonicoleli&layout=compact)
+![Theo Nicoleli's stats](https://github-readme-stats.vercel.app/api?username=theonicoleli&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonicoleli&layout=compact&show_icons=true&theme=dark)
