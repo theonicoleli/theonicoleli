@@ -3,7 +3,7 @@
 ## 👀 Informações:
 📚 Estudante de BSI na PUCPR  
 🧑‍ Idade 19 anos  
-👨‍💻 Interessado pela área de Back-End 
+👨‍💻 Interessado pela área Full-stack
 
 Portfólio: https://theonicoleli.github.io/New-Portfolio/
 
