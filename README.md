@@ -2,7 +2,7 @@
 
 ## 👀 Informações:
 📚 Estudante de BSI na PUCPR  
-🧑‍ Idade 19 anos  
+🧑‍ Idade 20 anos  
 👨‍💻 Interessado pela área Full-stack
 
 Portfólio: https://theonicoleli.vercel.app/
