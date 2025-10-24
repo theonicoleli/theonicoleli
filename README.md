@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Théo Lucas Nicoleli
+### 👋 Olá, eu sou o Théo Nicoleli
 
 ## 👀 Informações:
 📚 Estudante de BSI na PUCPR  
